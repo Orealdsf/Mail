@@ -1,0 +1,7 @@
+C:\Users\10807560\source\repos\Mail\Mail\bin\Debug\Mail.exe.config
+C:\Users\10807560\source\repos\Mail\Mail\bin\Debug\Mail.exe
+C:\Users\10807560\source\repos\Mail\Mail\bin\Debug\Mail.pdb
+C:\Users\10807560\source\repos\Mail\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+C:\Users\10807560\source\repos\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\Users\10807560\source\repos\Mail\Mail\obj\Debug\Mail.exe
+C:\Users\10807560\source\repos\Mail\Mail\obj\Debug\Mail.pdb
